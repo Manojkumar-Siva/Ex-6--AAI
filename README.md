@@ -1,5 +1,5 @@
 <H4>Manoj Kumar.S</H4>
-<H4>212221240056</H4>
+<H4>212221230056</H4>
 <H4>EX. NO.6</H4>
 <H4>DATE: 21.10.24</H4>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
